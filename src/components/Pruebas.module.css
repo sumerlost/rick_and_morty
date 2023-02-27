@@ -1,0 +1,62 @@
+.per-card-1 {
+    text-align: center;
+    width: 250px;
+    background-image: linear-gradient(#315386, #ffffff);
+
+    -webkit-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    -o-box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-image {
+    padding: 20px;
+}
+
+.card-image img {
+    height: 200px;
+}
+
+.card-title {
+    font-size: 20px;
+    padding-bottom: 6px;
+}
+
+.per-position {
+    color: #002255;
+    padding-bottom: 10px;
+}
+
+.social-icons i {
+    font-size: 30px;
+    padding: 5px;
+
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.social-icons i:hover {
+    color: #383838;
+}
+
+.card-btn button {
+    margin-top: 15px;
+    width: 100%;
+    padding: 15px;
+    background: black;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    cursor: pointer;
+
+    -webkit-transition: all .2s ease-in;
+    -moz-transition: all .2s ease-in;
+    -o-transition: all .2s ease-in;
+    transition: all .2s ease-in;
+}
+
+.card-btn button:hover {
+    background: #383838;
+}
